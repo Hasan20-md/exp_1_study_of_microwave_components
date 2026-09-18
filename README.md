@@ -134,6 +134,7 @@ Conversions between VSWR, reflection coefficient and return loss:
 
 ### Conical Horn
 
+
 <img width="226" height="194" alt="image" src="https://github.com/user-attachments/assets/fcbdf4f1-5b7c-4b94-9810-82f24b11f4f8" />
 
 Also called a waveguide-fed conical horn — a practical microwave antenna often used as a feed for communication/satellite dishes and radio telescopes. Its axial symmetry lets it handle any polarisation of the fundamental TE₁₁ mode, though the pin-fed design used here is linearly polarised. Variations that reduce diffraction effects, improve pattern symmetry and lower side lobes include corrugating the internal walls, curving the walls at the aperture, combining corrugations with wall curvature, and introducing higher-order modes to reduce the field at the aperture edges. A lens across the aperture compensates for phase error and narrows the beamwidth.
